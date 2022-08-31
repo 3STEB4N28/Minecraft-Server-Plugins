@@ -1,0 +1,8 @@
+name: Logger
+main: Logger/Main
+version: 1.0.0
+api: [1.0.0]
+
+load: POSTWORLD
+author: 3STEB4N
+description: A plugin that sends a messsage when a user leaves or joins the server.
